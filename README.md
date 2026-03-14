@@ -29,7 +29,7 @@ A deep-navy banking banner featuring dynamic, overlapping credit cards that phys
 ![main banner](image/Screenshot2026-03-14213027.png)
 ![Scroll Animation](image/ShopNow-GoogleChrome2026-03-1421-17-42-ezgif.com-crop.gif)
 ![ending](image/ShopNow-GoogleChrome2026-03-1421-31-04-ezgif.com-crop.gif)
-##DARK MODE
+## DARK MODE
 ![dark mode](image/Screenshot2026-03-14221001.png)
 
 🛠️ Tech Stack
