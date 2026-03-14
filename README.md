@@ -24,7 +24,7 @@ A deep-navy banking banner featuring dynamic, overlapping credit cards that phys
 
 📸 Sneak Peek
 (I recommend taking a few screenshots or a screen recording of your cinematic scroll and pasting them here!)
-![main hero](image/Screenshot 2026-03-14 212846.png)
+![main hero](image/Screenshot2026-03-14212846.png)
 ![mega menu](image/Screenshot 2026-03-14 212950.png)
 ![main banner](image/Screenshot 2026-03-14 213027.png)
 ![Scroll Animation](image/ShopNow-GoogleChrome2026-03-1421-17-42-ezgif.com-crop.gif)
