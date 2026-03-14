@@ -45,7 +45,7 @@ To view the project locally, you don't need any build tools or dependencies:
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/ShopNow.git
+git clone https://github.com/Deekshitulu30/e-commerce-website.git
 Navigate to the project folder:
 
 Bash
