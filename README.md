@@ -27,7 +27,7 @@ A deep-navy banking banner featuring dynamic, overlapping credit cards that phys
 
 [Insert Screenshot of Main Hero & Mega Menu]
 
-
+![Scroll Animation](ShopNow-GoogleChrome2026-03-1421-17-42-ezgif.com-crop.gif)
 
 [Insert Screenshot of the Dark Mode Product Carousel]
 
